@@ -1,0 +1,8 @@
+{
+  "name": "bootstrap-landing",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Amit Patra <amit.patra@msn.com>",
+  "license": "MIT",
+  "private": true
+}
